@@ -1,4 +1,4 @@
-### Enitial step
+### Initial step
 * Put the desired non empty string in line no 1 of test.js
 
 ### Execution 
