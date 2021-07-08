@@ -1,5 +1,5 @@
-### initial step
-* put the non empty string in the line no 1 
+### Enitial step
+* Put the desired non empty string in line no 1 of test.js
 
-### execution 
+### Execution 
 * node test.js
